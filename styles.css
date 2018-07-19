@@ -1,8 +1,5 @@
 body{
-	@font-face {
-		font-family: Shift Extralight;
-		src: url(Shift-Extralight.woff);
-	},
+	font-family: 'Inconsolata', monospace;
 	padding: 5% 15%;
 	background: #34373a;
 }

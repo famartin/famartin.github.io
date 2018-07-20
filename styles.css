@@ -12,8 +12,7 @@ h5,
 h6,
 a{
 	color: #fff;
-    line-height: 1.6;
-    letter-spacing: .3px;
+    line-height: 1.4;
 }
 
 .comment{
@@ -30,9 +29,4 @@ a{
 
 a:link{
 	text-decoration: none;
-	color: black;
-}
-
-a:visited{
-    color: black;
 }
